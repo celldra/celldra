@@ -1,5 +1,5 @@
 ## 👋 Hey there!
-I'm a developer with over 5 years of experience in my field.
+I'm a developer with over 5 years of experience in backend and frontend development - this includes libraries, websites & desktop applications.
 
 ### 💼 What I'm doing
 Working at @diamondcdn to help make the internet safer and faster
