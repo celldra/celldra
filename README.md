@@ -1,16 +1,24 @@
-### Hi there 👋
+## 👋 Hey there!
+I'm a developer with over 5 years of experience in my field.
 
-<!--
-**celldra/celldra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💼 What I'm doing
+Working at @diamondcdn to help make the internet safer and faster
 
-Here are some ideas to get you started:
+### 💻 Languages
+- C#
+- Go
+- TS/JS
+- Rust
+- Python
+- PHP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ Frameworks
+- Tailwind CSS
+- Svelte/SvelteKit
+- ASP.NET/Blazor
+- Avalonia/WPF
+- Bootstrap
+
+### ✉️ Contact
+You can contact me at my public email address **on this profile**.
+*There are no guarantees that I will read or reply to your message*
