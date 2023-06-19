@@ -2,7 +2,7 @@
 I'm a developer with over 5 years of experience in backend and frontend development - this includes libraries, websites & desktop applications.
 
 ### 💼 What I'm doing
-Working at @diamondcdn to help make the internet safer and faster
+Laying low and working at a startup, also trying to learn more about low-level networking and other more (obscure?) internet protocols like BGP
 
 ### 💻 Languages
 - C#
@@ -10,13 +10,14 @@ Working at @diamondcdn to help make the internet safer and faster
 - TS/JS
 - Rust
 - Python
-- PHP
+- (unfortunately) PHP
 
 ### ⚙️ Frameworks
 - Tailwind CSS
 - Svelte/SvelteKit
 - ASP.NET/Blazor
 - Avalonia/WPF
+- (unfortunately) WinForms
 - Bootstrap
 
 ### ✉️ Contact
