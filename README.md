@@ -1,8 +1,8 @@
 ## 👋 Hey there!
-I'm a developer with over 5 years of experience in backend and frontend development - this includes libraries, websites & desktop applications.
+I'm a developer with over 6 years of experience in backend and frontend development - this includes libraries, websites & desktop applications.
 
 ### 💼 What I'm doing
-Laying low and working at a startup, also trying to learn more about low-level networking and other more (obscure?) internet protocols like BGP
+Building up businesses and reaching my goals, becoming a better person.
 
 ### 💻 Languages
 - C#
