@@ -1,5 +1,5 @@
 ## 👋 Hey there!
-I'm a developer with over 6 years of experience in backend and frontend development - this includes libraries, websites & desktop applications.
+I'm a developer with over 7 years of experience in backend and frontend development - this includes libraries, websites & desktop applications.
 
 ### 💼 What I'm doing
 Building up businesses and reaching my goals, becoming a better person.
