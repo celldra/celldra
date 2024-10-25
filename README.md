@@ -10,7 +10,7 @@ Building up businesses and reaching my goals, becoming a better person.
 - TS/JS
 - Rust
 - Python
-- (unfortunately) PHP
+- PHP
 
 ### ⚙️ Frameworks
 - Tailwind CSS
