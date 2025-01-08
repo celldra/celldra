@@ -1,6 +1,6 @@
 # 👋 Hey there!
 
-I'm a **full-stack developer** with over **7 years of experience** crafting scalable, high-performance systems, from e-commerce platforms and SaaS solutions to advanced networking tools and reverse proxies. I thrive on solving complex problems, building robust architectures, and continuously learning cutting-edge technologies.
+I'm a **full-stack developer** with over **7 years of experience** crafting scalable, high-performance systems, from e-commerce platforms and SaaS solutions to advanced networking tools and reverse proxies. I thrive on solving complex problems, building robust architectures, and continuously learning cutting-edge technologies. I’m a perfectionist who values precision and minimalism, ensuring every project meets the highest standards before it’s complete.
 
 ---
 
@@ -40,13 +40,11 @@ I'm a **full-stack developer** with over **7 years of experience** crafting scal
   - Optimized pages with Cloudflare by leveraging custom caching and speed rules for enhanced conversions.
   - **SEO Optimization**: Implemented `ld+json` structured data for Google, adding review stars and product listings. This boosted the platform to **#1 on Google** for the company name.
   
-- **DDoS-Protected CDN**:
+- **[DDoS-Protected CDN](https://github.com/celldra/cdn)**:
   - Custom **Go-based reverse proxy**, mitigating **3,000,000+ RPS** on AMD Ryzen CPUs.
   - Included a **custom DNS server**, also written in Go, for advanced traffic routing.
   - Includes advanced caching (BadgerDB) and JavaScript-based bot detection.
   - A real-time dashboard propagates configuration changes across nodes instantly.
- 
-    *Source code available [here](https://github.com/celldra/cdn)*
   
 - **[Hosting Platform (In Progress)](https://vexelia.com)**:
   - Integrated with **Proxmox API** for automated hosting solutions.
