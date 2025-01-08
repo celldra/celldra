@@ -42,8 +42,11 @@ I'm a **full-stack developer** with over **7 years of experience** crafting scal
   
 - **DDoS-Protected CDN**:
   - Custom **Go-based reverse proxy**, mitigating **3,000,000+ RPS** on AMD Ryzen CPUs.
+  - Included a **custom DNS server**, also written in Go, for advanced traffic routing.
   - Includes advanced caching (BadgerDB) and JavaScript-based bot detection.
   - A real-time dashboard propagates configuration changes across nodes instantly.
+ 
+    *Source code available [here](https://github.com/celldra/cdn)*
   
 - **Hosting Platform (In Progress)**:
   - Integrated with **Proxmox API** for automated hosting solutions.
