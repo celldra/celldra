@@ -32,7 +32,7 @@ I'm a **full-stack developer** with over **7 years of experience** crafting scal
 ---
 
 ## 🌟 Featured Projects
-- **E-Commerce Platform**:
+- **[E-Commerce Platform](https://sellsn.io)**:
   - Supports **Stripe**, **PayPal**, **Cash App**, **Crypto**, and various other card processors.
   - Features include OAuth2 integration, teams with ACL permissions, license key delivery, analytics, webhooks, and a public API.
   - Processes over **$2,000,000 annually, $20,000+ and 1,500+ orders daily** with ease.
@@ -48,7 +48,7 @@ I'm a **full-stack developer** with over **7 years of experience** crafting scal
  
     *Source code available [here](https://github.com/celldra/cdn)*
   
-- **Hosting Platform (In Progress)**:
+- **[Hosting Platform (In Progress)](https://vexelia.com)**:
   - Integrated with **Proxmox API** for automated hosting solutions.
   - Fully custom, no pre-built dashboards, leveraging **SvelteKit** and **C#**.
   
