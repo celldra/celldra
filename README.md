@@ -32,10 +32,10 @@ I'm a **full-stack developer** with over **7 years of experience** crafting scal
 ---
 
 ## 🌟 Featured Projects
-- **[E-Commerce Platform](https://sellsn.io)**:
+- **[Komerza](https://komerza.com)**:
   - Supports **Stripe**, **PayPal**, **Cash App**, **Crypto**, and various other card processors.
   - Features include OAuth2 integration, teams with ACL permissions, license key delivery, analytics, webhooks, and a public API.
-  - Processes over **$2,000,000 annually, $20,000+ and 1,500+ orders daily** with ease.
+  - Processes over **$1,000,000 monthly** with ease.
   - Scales effortlessly, deployed on **ARM64 Hetzner servers** with Docker Compose.
   - Optimized pages with Cloudflare by leveraging custom caching and speed rules for enhanced conversions.
   - **SEO Optimization**: Implemented `ld+json` structured data for Google, adding review stars and product listings. This boosted the platform to **#1 on Google** for the company name.
